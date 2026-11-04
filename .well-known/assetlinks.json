@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.moi.voiceroom",
+        "sha256_cert_fingerprints": ["C1:A7:DA:2D:0B:5C:BC:0F:E9:07:00:06:08:32:68:9F:21:85:8F:34:B3:5F:6F:56:7E:89:2E:53:9A:0A:B5:3B"]
+      }
+    }]
